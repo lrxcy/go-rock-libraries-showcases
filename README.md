@@ -23,12 +23,12 @@
 
 |课程标题|副标题|课时数|在线播放|
 |:-----:|:---:|:---:|:-----|
-|[课程学习指导](lectures/00-introduction)|/|1/1|[优才网](http://www.ucai.cn/course/chapter/134/3699/6825) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=651089&courseId=510006)|
-|[goconfig - INI 解析器](lectures/01-goconfig)|goconfig 使用解析|1/1|[优才网](http://www.ucai.cn/course/chapter/134/3701/6833) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=659131&courseId=510006)|
-|[xorm - Go 语言 ORM](lectures/02-xorm)|常见用法指导|1/2|[优才网](http://www.ucai.cn/course/chapter/134/4068/8271) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=729063&courseId=510006)|
+|[课程学习指导](lectures/00-introduction/README.md)|/|1/1|[优才网](http://www.ucai.cn/course/chapter/134/3699/6825) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=651089&courseId=510006)|
+|[goconfig - INI 解析器](lectures/01-goconfig/README.md)|goconfig 使用解析|1/1|[优才网](http://www.ucai.cn/course/chapter/134/3701/6833) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=659131&courseId=510006)|
+|[xorm - Go 语言 ORM](lectures/02-xorm/README.md)|常见用法指导|1/2|[优才网](http://www.ucai.cn/course/chapter/134/4068/8271) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=729063&courseId=510006)|
 ||高级用法讲解|2/2|[优才网](http://www.ucai.cn/course/chapter/134/4281/9025) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=876010&courseId=510006)|
-|[goconvey - 单元测试库](lectures/03-goconvey)|优雅的单元测试|1/1|[优才网](http://www.ucai.cn/course/chapter/134/4617/9400) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=999114&courseId=510006)|
-|[Macaron - 模块化 Web 框架](lectures/04-macaron)|初识 Macaron|1/?|[优才网](http://www.ucai.cn/course/chapter/134/4638/9497) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=1051887&courseId=510006)|
+|[goconvey - 单元测试库](lectures/03-goconvey/README.md)|优雅的单元测试|1/1|[优才网](http://www.ucai.cn/course/chapter/134/4617/9400) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=999114&courseId=510006)|
+|[Macaron - 模块化 Web 框架](lectures/04-macaron/README.md)|初识 Macaron|1/?|[优才网](http://www.ucai.cn/course/chapter/134/4638/9497) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=1051887&courseId=510006)|
 ||核心服务的使用|2/?|[优才网](http://www.ucai.cn/course/chapter/134/4638/9658) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=1125042&courseId=510006)|
 ||自定义服务|3/?|[优才网](http://www.ucai.cn/index.php?app=fullstack&mod=Train&act=show&cid=134&sid=4638&chid=11211) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=1484008&courseId=510006)|
 
